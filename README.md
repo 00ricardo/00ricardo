@@ -3,7 +3,7 @@
 ###### 24 | Portugal
 
 ### Repositories
-The vast majority of my repositories are private for legal reasons and loyalty to entities. Despite this, you can find some projects related to my academic career and others more related to personal projects.
+The vast majority of my repositories are private for legal reasons to entities. Despite this, you can find some projects related to my academic career and others more related to personal projects.
 
 ### Technological Stack
 I have dedicated my career to web development. Take a look at the technologies I use the most in my projects.
