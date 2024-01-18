@@ -15,3 +15,5 @@ I have dedicated my career to web development. Take a look at the technologies I
 ###### Others: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 	![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 	![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ricardo&show_icons=true&theme=calm_pink)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ricardo&layout=donut)]
